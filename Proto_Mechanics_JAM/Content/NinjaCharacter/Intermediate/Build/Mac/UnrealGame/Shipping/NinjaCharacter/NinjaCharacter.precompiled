@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Shipping/NinjaCharacter/Module.NinjaCharacter.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/NinjaCharacter/Module.NinjaCharacter.cpp.o",
+		"../../../x64/UnrealGame/Shipping/NinjaCharacter/Module.NinjaCharacter.cpp.o",
+		"../../../x64/UnrealGame/Shipping/NinjaCharacter/Module.NinjaCharacter.cpp.o"
+	]
+}
