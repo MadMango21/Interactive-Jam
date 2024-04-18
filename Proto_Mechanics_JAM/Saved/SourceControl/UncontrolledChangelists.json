@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/Actions/IA-CancelFly.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/Actions/IA_Fly.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/EN_GravityStates.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Marketplace/NinjaCharacter/Content/NinjaCharacter/Blueprints/NinjaPlayerCharacter_BP.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
