@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_PlayerController.uasset",
-				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/Actions/IA-CancelFly.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/Actions/IA_Fly.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/EN_GravityStates.uasset",
@@ -19,6 +18,8 @@
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
 				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/3D_Stuff/Torch/NS_Fire.uasset",
+				"C:/Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/Actions/IA-CancelFly.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"X:/myDocuments/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
