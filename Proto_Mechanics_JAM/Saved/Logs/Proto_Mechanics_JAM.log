@@ -1594,3 +1594,1259 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.18-14.25.12:969][214]LogEditorActor: Deleted 1 Actors (0.010 secs)
 [2024.04.18-14.34.10:071][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
 [2024.04.18-14.34.10:073][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.011
+[2024.04.18-14.44.10:597][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.04.18-14.44.10:598][474]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.04.18-14.54.10:992][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.04.18-14.54.10:992][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.04.18-15.04.11:413][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.18-15.04.11:414][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.04.18-15.14.11:890][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.18-15.14.11:891][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.010
+[2024.04.18-15.23.40:790][584]LogDerivedDataCache: C:/Users/Humza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.065 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2638 files in 4003 folders with total size 152 MiB.
+[2024.04.18-15.24.12:374][678]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.04.18-15.24.12:374][678]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.009
+[2024.04.18-15.27.14:011][249]LogViewport: Scene viewport resized to 1014x336, mode Windowed.
+[2024.04.18-15.27.14:439][249]LogViewport: Scene viewport resized to 2038x727, mode Windowed.
+[2024.04.18-15.27.21:453][966]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.18-15.27.21:454][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.27.21:454][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.27.22:273][966]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Plugins\Marketplace\NinjaCharacter\Content\DemoRoom\BluePrint\BP_DemoRoom_Enum.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2024.04.18-15.27.22:276][966]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.2\Engine\Plugins\Marketplace\NinjaCharacter\Content\DemoRoom\BluePrint\BP_DemoDisplay_Enum.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2024.04.18-15.27.22:503][966]LogSlate: Took 0.003723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.18-15.27.22:665][967]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.27.22:683][967]LogSlate: Took 0.003526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.18-15.27.22:717][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.29.24:902][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-15.29.24:908][487]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.18-15.29.24:909][487]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.18-15.29.24:909][487]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.18-15.29.24:909][487]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 26 us)
+[2024.04.18-15.29.24:909][487]LogWorldPartition: Display: GenerateStreaming took 132 us (total: 549 us)
+[2024.04.18-15.29.24:912][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.29.24:912][487]PIE: New page: PIE session: ThirdPersonMap (18 Apr 2024, 17:29:24)
+[2024.04.18-15.29.24:939][487]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.29.24:944][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003935s)
+[2024.04.18-15.29.24:944][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003970s)
+[2024.04.18-15.29.24:944][487]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.29.24:944][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.29.24:945][487]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.18-15.29.24:945][487]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.18-15.29.24:945][487]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.18-15.29.24:945][487]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.18-15.29.24:946][487]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.18-15.29.24:946][487]LogWorldPartition: Display: WorldPartition initialize took 911 us (total: 2.08 sec)
+[2024.04.18-15.29.24:946][487]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2024.04.18-15.29.24:963][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.18-15.29.24:965][487]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.18-15.29.24:965][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.29.24:965][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.29.24:965][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.29.24:965][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.29.24:965][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.29.24:966][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.29.24:983][487]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.18-15.29.24:984][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.29.24:984][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.29.24:984][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.29.24:984][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.18-15.29.24:984][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.18-15.29.24:985][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.18-15.29.24:985][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.18-15.29.24:985][487]LogInit: FAudioDevice initialized with ID 5.
+[2024.04.18-15.29.24:985][487]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2024.04.18-15.29.24:985][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.18-15.29.24:987][487]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.18-15.29.24:988][487]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.18-16.29.24
+[2024.04.18-15.29.24:989][487]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.18-15.29.24:989][487]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.18-15.29.24:990][487]LogWorld: Bringing up level for play took: 0.001682
+[2024.04.18-15.29.24:991][487]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.04.18-15.29.24:993][487]PIE: Server logged in
+[2024.04.18-15.29.24:994][487]PIE: Play in editor total start time 0.085 seconds.
+[2024.04.18-15.29.25:007][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:008][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:008][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:008][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:008][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:008][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:009][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:009][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:009][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:010][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:010][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:010][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:010][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:011][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:011][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:011][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:011][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:011][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:012][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:013][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:014][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:014][487]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:060][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:061][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:061][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:061][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:061][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:061][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:062][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:063][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:064][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:065][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:065][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:066][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.25:066][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.37:740][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.37:740][845]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.29.37:740][845]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.29.37:741][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.37:741][845]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.29.37:743][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.29.37:745][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.37:759][845]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.29.37:760][845]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.04.18-15.29.37:760][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.18-15.29.37:761][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.18-15.29.37:763][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.37:765][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.18-15.29.37:790][845]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.37:804][846]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.37:815][848]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.04.18-15.29.37:857][853]Cmd: SELECT NONE
+[2024.04.18-15.29.52:648][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-15.29.52:656][495]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.18-15.29.52:657][495]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.18-15.29.52:657][495]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.18-15.29.52:657][495]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 31 us)
+[2024.04.18-15.29.52:658][495]LogWorldPartition: Display: GenerateStreaming took 171 us (total: 720 us)
+[2024.04.18-15.29.52:660][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.29.52:660][495]PIE: New page: PIE session: ThirdPersonMap (18 Apr 2024, 17:29:52)
+[2024.04.18-15.29.52:700][495]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.29.52:704][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003781s)
+[2024.04.18-15.29.52:704][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003812s)
+[2024.04.18-15.29.52:704][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.29.52:704][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.29.52:704][495]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.18-15.29.52:704][495]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.18-15.29.52:704][495]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.18-15.29.52:704][495]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.18-15.29.52:705][495]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.18-15.29.52:705][495]LogWorldPartition: Display: WorldPartition initialize took 822 us (total: 2.08 sec)
+[2024.04.18-15.29.52:705][495]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2024.04.18-15.29.52:719][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.18-15.29.52:720][495]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.18-15.29.52:720][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.29.52:720][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.29.52:721][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.29.52:721][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.29.52:721][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.29.52:722][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.29.52:740][495]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.18-15.29.52:740][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.29.52:740][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.29.52:740][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.29.52:741][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.18-15.29.52:741][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.18-15.29.52:742][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.18-15.29.52:742][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.18-15.29.52:742][495]LogInit: FAudioDevice initialized with ID 6.
+[2024.04.18-15.29.52:742][495]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2024.04.18-15.29.52:742][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.18-15.29.52:743][495]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.18-15.29.52:745][495]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.18-16.29.52
+[2024.04.18-15.29.52:745][495]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.18-15.29.52:745][495]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.18-15.29.52:745][495]LogWorld: Bringing up level for play took: 0.001641
+[2024.04.18-15.29.52:746][495]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.18-15.29.52:749][495]PIE: Server logged in
+[2024.04.18-15.29.52:749][495]PIE: Play in editor total start time 0.093 seconds.
+[2024.04.18-15.29.52:763][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:764][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:764][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:764][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:764][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:764][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:765][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:766][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:766][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:766][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:766][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:766][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:767][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:768][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:768][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:768][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:769][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:769][495]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:776][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:777][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:778][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:779][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:780][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:780][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:780][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:781][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.52:782][496]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.56:331][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.56:331][875]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.29.56:331][875]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.29.56:331][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.56:331][875]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.29.56:333][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.29.56:335][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.29.56:351][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.29.56:351][875]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.04.18-15.29.56:351][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.18-15.29.56:352][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.18-15.29.56:356][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.18-15.29.56:382][875]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.56:397][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.29.56:422][878]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.18-15.30.25:689][894]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-15.30.25:695][894]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.18-15.30.25:696][894]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.18-15.30.25:696][894]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.18-15.30.25:696][894]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 35 us)
+[2024.04.18-15.30.25:696][894]LogWorldPartition: Display: GenerateStreaming took 133 us (total: 854 us)
+[2024.04.18-15.30.25:698][894]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.18-15.30.25:700][894]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.04.18-15.30.25:784][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.04.18-15.30.25:785][894]LogPlayLevel: PlayLevel: Blueprint regeneration took 86 ms (1 blueprints)
+[2024.04.18-15.30.25:785][894]PIE: New page: PIE session: ThirdPersonMap (18 Apr 2024, 17:30:25)
+[2024.04.18-15.30.25:785][894]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.30.25:788][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003456s)
+[2024.04.18-15.30.25:788][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003479s)
+[2024.04.18-15.30.25:788][894]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.30.25:788][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.30.25:788][894]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.18-15.30.25:789][894]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.18-15.30.25:789][894]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.18-15.30.25:789][894]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.18-15.30.25:790][894]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.18-15.30.25:790][894]LogWorldPartition: Display: WorldPartition initialize took 955 us (total: 2.08 sec)
+[2024.04.18-15.30.25:790][894]LogPlayLevel: PIE: World Init took: (0.001831s)
+[2024.04.18-15.30.25:805][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.18-15.30.25:806][894]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.18-15.30.25:806][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.30.25:806][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.30.25:806][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.30.25:806][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.30.25:806][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.30.25:808][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.30.25:825][894]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.18-15.30.25:825][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.30.25:825][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.30.25:825][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.30.25:826][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.04.18-15.30.25:826][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.04.18-15.30.25:827][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.04.18-15.30.25:827][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.04.18-15.30.25:827][894]LogInit: FAudioDevice initialized with ID 7.
+[2024.04.18-15.30.25:827][894]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2024.04.18-15.30.25:827][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.18-15.30.25:829][894]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.18-15.30.25:830][894]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.18-16.30.25
+[2024.04.18-15.30.25:830][894]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.18-15.30.25:830][894]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.18-15.30.25:830][894]LogWorld: Bringing up level for play took: 0.001733
+[2024.04.18-15.30.25:832][894]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.18-15.30.25:834][894]PIE: Server logged in
+[2024.04.18-15.30.25:835][894]PIE: Play in editor total start time 0.14 seconds.
+[2024.04.18-15.30.25:850][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:850][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:850][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:851][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:851][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:851][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:851][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:851][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:852][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:852][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:852][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:852][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:852][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:853][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:854][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:855][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:856][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:856][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:864][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:865][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:865][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:865][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:865][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:866][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:867][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:867][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:867][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:867][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:867][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:868][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:869][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:869][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:869][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:870][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:871][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.25:871][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.27:740][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.30.27:740][ 91]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.30.27:740][ 91]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.30.27:740][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.30.27:740][ 91]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.30.27:743][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.30.27:745][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.30.27:759][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.30.27:761][ 91]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.04.18-15.30.27:761][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.18-15.30.27:762][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.04.18-15.30.27:766][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.18-15.30.27:791][ 91]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.27:806][ 92]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.27:829][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.18-15.30.33:472][641]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-15.30.33:478][641]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.18-15.30.33:478][641]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.18-15.30.33:478][641]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.18-15.30.33:478][641]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 40 us)
+[2024.04.18-15.30.33:478][641]LogWorldPartition: Display: GenerateStreaming took 130 us (total: 984 us)
+[2024.04.18-15.30.33:480][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.30.33:480][641]PIE: New page: PIE session: ThirdPersonMap (18 Apr 2024, 17:30:33)
+[2024.04.18-15.30.33:509][641]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.30.33:514][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003591s)
+[2024.04.18-15.30.33:514][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003620s)
+[2024.04.18-15.30.33:514][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.30.33:514][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.30.33:514][641]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.18-15.30.33:515][641]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.18-15.30.33:515][641]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.18-15.30.33:515][641]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.18-15.30.33:515][641]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.18-15.30.33:515][641]LogWorldPartition: Display: WorldPartition initialize took 819 us (total: 2.08 sec)
+[2024.04.18-15.30.33:515][641]LogPlayLevel: PIE: World Init took: (0.001553s)
+[2024.04.18-15.30.33:529][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.18-15.30.33:530][641]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.18-15.30.33:530][641]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.30.33:530][641]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.30.33:530][641]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.30.33:530][641]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.30.33:530][641]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.30.33:532][641]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.30.33:548][641]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.18-15.30.33:548][641]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.30.33:548][641]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.30.33:548][641]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.30.33:549][641]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.04.18-15.30.33:549][641]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.04.18-15.30.33:550][641]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.04.18-15.30.33:550][641]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.04.18-15.30.33:550][641]LogInit: FAudioDevice initialized with ID 8.
+[2024.04.18-15.30.33:550][641]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonMap'.
+[2024.04.18-15.30.33:550][641]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.18-15.30.33:552][641]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.18-15.30.33:553][641]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.18-16.30.33
+[2024.04.18-15.30.33:553][641]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.18-15.30.33:553][641]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.18-15.30.33:553][641]LogWorld: Bringing up level for play took: 0.001653
+[2024.04.18-15.30.33:554][641]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.04.18-15.30.33:557][641]PIE: Server logged in
+[2024.04.18-15.30.33:557][641]PIE: Play in editor total start time 0.08 seconds.
+[2024.04.18-15.30.33:573][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:573][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:573][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:574][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:575][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:576][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:577][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:577][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:577][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:577][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:577][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:579][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:579][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:585][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:586][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:586][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:586][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:587][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:588][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:590][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:592][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.33:592][642]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.35:021][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.30.35:021][789]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.30.35:021][789]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.30.35:021][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.30.35:021][789]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.30.35:023][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.30.35:025][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.30.35:043][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.30.35:043][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.04.18-15.30.35:043][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.18-15.30.35:044][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.04.18-15.30.35:048][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.18-15.30.35:073][789]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.35:076][790]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.04.18-15.30.35:087][790]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.30.40:308][295]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.18-15.30.40:372][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.18-15.31.03:740][673]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.04.18-15.31.03:806][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.18-15.31.05:804][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.18-15.31.05:810][873]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.18-15.31.05:811][873]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.18-15.31.05:811][873]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.18-15.31.05:811][873]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 44 us)
+[2024.04.18-15.31.05:811][873]LogWorldPartition: Display: GenerateStreaming took 127 us (total: 1 ms)
+[2024.04.18-15.31.05:813][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.18-15.31.05:813][873]PIE: New page: PIE session: ThirdPersonMap (18 Apr 2024, 17:31:05)
+[2024.04.18-15.31.05:850][873]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.31.05:853][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003581s)
+[2024.04.18-15.31.05:853][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003626s)
+[2024.04.18-15.31.05:853][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.31.05:853][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.18-15.31.05:853][873]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.18-15.31.05:854][873]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.18-15.31.05:854][873]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.18-15.31.05:854][873]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.18-15.31.05:855][873]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.18-15.31.05:855][873]LogWorldPartition: Display: WorldPartition initialize took 810 us (total: 2.08 sec)
+[2024.04.18-15.31.05:855][873]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2024.04.18-15.31.05:872][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.18-15.31.05:874][873]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.18-15.31.05:874][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.18-15.31.05:874][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.18-15.31.05:874][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.18-15.31.05:874][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.18-15.31.05:874][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.18-15.31.05:875][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.18-15.31.05:892][873]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.18-15.31.05:892][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.18-15.31.05:892][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.18-15.31.05:892][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.18-15.31.05:893][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.04.18-15.31.05:893][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.04.18-15.31.05:894][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.04.18-15.31.05:894][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.04.18-15.31.05:894][873]LogInit: FAudioDevice initialized with ID 9.
+[2024.04.18-15.31.05:894][873]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonMap'.
+[2024.04.18-15.31.05:894][873]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.18-15.31.05:895][873]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.18-15.31.05:897][873]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.18-16.31.05
+[2024.04.18-15.31.05:897][873]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.18-15.31.05:897][873]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.18-15.31.05:897][873]LogWorld: Bringing up level for play took: 0.001657
+[2024.04.18-15.31.05:898][873]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.04.18-15.31.05:902][873]PIE: Server logged in
+[2024.04.18-15.31.05:902][873]PIE: Play in editor total start time 0.092 seconds.
+[2024.04.18-15.31.05:916][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:917][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:917][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:917][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:917][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:917][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:918][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:919][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:920][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:920][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:920][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:920][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:920][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:921][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:921][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:923][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:923][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:929][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:929][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:929][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:930][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:932][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:933][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:934][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:934][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:934][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:935][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.31.05:935][874]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.32.29:331][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.32.29:331][288]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.18-15.32.29:331][288]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.32.29:331][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.32.29:331][288]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.32.29:334][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.18-15.32.29:336][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.32.29:350][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.18-15.32.29:350][288]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.04.18-15.32.29:350][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.18-15.32.29:352][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.04.18-15.32.29:354][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.18-15.32.29:356][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.18-15.32.29:380][288]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.32.29:397][289]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.18-15.32.29:399][290]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.04.18-15.35.56:473][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.18-15.35.56:474][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.04.18-15.35.56:475][980]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.18-15.35.56:476][980]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.18-15.35.56:493][980]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.04.18-15.35.56:498][980]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.18-15.35.56:498][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.18-15.35.56:505][980]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006170 seconds
+[2024.04.18-15.35.56:534][980]LogSerialization: UsePackageTrailer: 'true'
+[2024.04.18-15.35.56:557][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.04.18-15.35.56:558][980]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/BP_ThirdPersonCharacter_Auto1CB406D9A49BF70A1BB3D91AED97F89F4.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.04.18-15.35.56:559][980]LogFileHelpers: Auto-saving content packages took 0.085
+[2024.04.18-15.39.49:433][725]LogViewport: Scene viewport resized to 1014x336, mode Windowed.
+[2024.04.18-15.39.52:620][ 73]LogViewport: Scene viewport resized to 2038x727, mode Windowed.
+[2024.04.18-15.45.57:008][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.04.18-15.45.57:010][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.04.18-15.54.18:552][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.18-15.54.21:710][998]LogSlate: Window 'Save Content' being destroyed
+[2024.04.18-15.54.21:716][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.18-15.54.21:786][998]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.18-15.54.21:787][998]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/BP_ThirdPersonCharacter44A1CB5643BD98D0FEEA308BBD7FFB9C.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.18-15.54.21:793][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms
+[2024.04.18-15.54.21:794][998]LogStall: Shutdown...
+[2024.04.18-15.54.21:797][998]LogStall: Shutdown complete.
+[2024.04.18-15.54.21:821][998]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.04.18-15.54.21:836][998]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.21:836][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.54.21:874][998]LogSlate: Window 'Proto_Mechanics_JAM - Unreal Editor' being destroyed
+[2024.04.18-15.54.21:933][998]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.04.18-15.54.21:933][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.18-15.54.21:938][999]Cmd: QUIT_EDITOR
+[2024.04.18-15.54.21:938][999]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.18-15.54.21:947][999]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.18-15.54.21:947][999]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.18-15.54.21:947][999]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.18-15.54.21:948][999]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.21:948][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.18-15.54.21:950][999]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.18-15.54.21:952][999]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.04.18-15.54.21:956][999]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.18-15.54.22:370][999]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.18-15.54.22:370][999]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.18-15.54.22:370][999]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.04.18-15.54.22:370][999]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.04.18-15.54.22:370][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-15.54.22:371][999]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.18-15.54.22:374][999]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.18-15.54.22:379][999]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.18-15.54.22:379][999]LogExit: Preparing to exit.
+[2024.04.18-15.54.22:410][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:413][999]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.04.18-15.54.22:778][999]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.22:779][999]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.22:779][999]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.22:781][999]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.04.18-15.54.22:838][999]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.18-15.54.22:863][999]LogExit: Editor shut down
+[2024.04.18-15.54.22:865][999]LogExit: Transaction tracking system shut down
+[2024.04.18-15.54.22:993][999]LogExit: Object subsystem successfully closed.
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: ================================================
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: RAM used: 240.00 B of 1.60 GiB budget. Usage: 0.00%
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.18-15.54.22:998][999]LogShaderCompilers: Display: ================================================
+[2024.04.18-15.54.23:080][999]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.18-15.54.23:094][999]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1019)
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module Voice (1017)
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1015)
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1013)
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module SceneOutliner (1011)
+[2024.04.18-15.54.23:152][999]LogModuleManager: Shutting down and abandoning module AddContentDialog (1009)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1008)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module StatusBar (1005)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1003)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1001)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module StatsViewer (999)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (997)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module AutomationWorker (995)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (993)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (991)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (989)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (987)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module WebMMedia (985)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (983)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (981)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (979)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (977)
+[2024.04.18-15.54.23:153][999]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (975)
+[2024.04.18-15.54.23:154][999]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (973)
+[2024.04.18-15.54.23:154][999]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (971)
+[2024.04.18-15.54.23:154][999]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (969)
+[2024.04.18-15.54.23:154][999]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (967)
+[2024.04.18-15.54.23:154][999]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (965)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (963)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (961)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module PlanarCut (959)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module FractureEngine (957)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module CharacterAI (955)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module SmartSnapping (953)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module TextureAlignMode (951)
+[2024.04.18-15.54.23:155][999]LogModuleManager: Shutting down and abandoning module BspMode (949)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module GeometryMode (947)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (945)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (943)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module WaveTableEditor (941)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module GooglePADEditor (939)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (937)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module SequenceRecorder (936)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (933)
+[2024.04.18-15.54.23:156][999]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (931)
+[2024.04.18-15.54.23:157][999]LogModuleManager: Shutting down and abandoning module IKRigEditor (929)
+[2024.04.18-15.54.23:157][999]LogModuleManager: Shutting down and abandoning module ControlRigEditor (927)
+[2024.04.18-15.54.23:159][999]LogModuleManager: Shutting down and abandoning module SessionServices (925)
+[2024.04.18-15.54.23:159][999]LogModuleManager: Shutting down and abandoning module MeshPaint (923)
+[2024.04.18-15.54.23:159][999]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (921)
+[2024.04.18-15.54.23:159][999]LogModuleManager: Shutting down and abandoning module PlacementMode (920)
+[2024.04.18-15.54.23:159][999]LogModuleManager: Shutting down and abandoning module FoliageEdit (917)
+[2024.04.18-15.54.23:160][999]LogModuleManager: Shutting down and abandoning module LandscapeEditor (915)
+[2024.04.18-15.54.23:161][999]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (913)
+[2024.04.18-15.54.23:161][999]LogModuleManager: Shutting down and abandoning module ActorPickerMode (911)
+[2024.04.18-15.54.23:161][999]LogModuleManager: Shutting down and abandoning module ViewportSnapping (909)
+[2024.04.18-15.54.23:162][999]LogModuleManager: Shutting down and abandoning module ViewportInteraction (907)
+[2024.04.18-15.54.23:162][999]LogModuleManager: Shutting down and abandoning module ClothPainter (905)
+[2024.04.18-15.54.23:162][999]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (904)
+[2024.04.18-15.54.23:162][999]LogModuleManager: Shutting down and abandoning module LogVisualizer (901)
+[2024.04.18-15.54.23:163][999]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (899)
+[2024.04.18-15.54.23:163][999]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (897)
+[2024.04.18-15.54.23:163][999]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (896)
+[2024.04.18-15.54.23:164][999]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (894)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (891)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (889)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (887)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (885)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (883)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (881)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module AnimationSettings (879)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (877)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module CSVtoSVG (875)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (873)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module EditorConfig (871)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module EditorFramework (869)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (867)
+[2024.04.18-15.54.23:369][999]LogModuleManager: Shutting down and abandoning module TraceInsights (865)
+[2024.04.18-15.54.23:371][999]MemoryProfiler: Shutdown
+[2024.04.18-15.54.23:372][999]NetworkingProfiler: Shutdown
+[2024.04.18-15.54.23:372][999]LoadingProfiler: Shutdown
+[2024.04.18-15.54.23:372][999]TimingProfiler: Shutdown
+[2024.04.18-15.54.23:373][999]LogModuleManager: Shutting down and abandoning module TraceServices (864)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module TraceAnalysis (863)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (859)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (858)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module InputBindingEditor (855)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module MergeActors (853)
+[2024.04.18-15.54.23:374][999]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (851)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module LocalizationService (850)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module HardwareTargeting (847)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (845)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module UndoHistory (843)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module XmlParser (841)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module Blutility (839)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (837)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (836)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (833)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (832)
+[2024.04.18-15.54.23:375][999]LogModuleManager: Shutting down and abandoning module SettingsEditor (829)
+[2024.04.18-15.54.23:376][999]LogModuleManager: Shutting down and abandoning module ProjectLauncher (827)
+[2024.04.18-15.54.23:376][999]LogModuleManager: Shutting down and abandoning module SessionFrontend (825)
+[2024.04.18-15.54.23:376][999]LogModuleManager: Shutting down and abandoning module ProfilerClient (823)
+[2024.04.18-15.54.23:376][999]LogModuleManager: Shutting down and abandoning module DeviceManager (821)
+[2024.04.18-15.54.23:376][999]LogModuleManager: Shutting down and abandoning module AutomationController (819)
+[2024.04.18-15.54.23:377][999]LogModuleManager: Shutting down and abandoning module AutomationWindow (817)
+[2024.04.18-15.54.23:377][999]LogModuleManager: Shutting down and abandoning module Layers (815)
+[2024.04.18-15.54.23:378][999]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (813)
+[2024.04.18-15.54.23:378][999]LogModuleManager: Shutting down and abandoning module DetailCustomizations (811)
+[2024.04.18-15.54.23:378][999]LogModuleManager: Shutting down and abandoning module PackagesDialog (809)
+[2024.04.18-15.54.23:378][999]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (807)
+[2024.04.18-15.54.23:379][999]LogModuleManager: Shutting down and abandoning module Persona (805)
+[2024.04.18-15.54.23:380][999]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (804)
+[2024.04.18-15.54.23:380][999]LogModuleManager: Shutting down and abandoning module Kismet (801)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module KismetWidgets (800)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module GraphEditor (797)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module StructViewer (795)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module ClassViewer (793)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module NaniteTools (791)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (789)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (787)
+[2024.04.18-15.54.23:387][999]LogModuleManager: Shutting down and abandoning module SourceControlWindows (785)
+[2024.04.18-15.54.23:388][999]LogModuleManager: Shutting down and abandoning module OutputLog (783)
+[2024.04.18-15.54.23:388][999]LogModuleManager: Shutting down and abandoning module Documentation (781)
+[2024.04.18-15.54.23:388][999]LogModuleManager: Shutting down and abandoning module LiveCoding (779)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (777)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (775)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module MovieScene (773)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (771)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (769)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (767)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AudioMixer (766)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AudioMixerCore (765)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module LauncherPlatform (761)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AnalyticsET (759)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module PortalServices (757)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module PortalRpc (755)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module MessagingRpc (753)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AIModule (751)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module GameplayDebugger (750)
+[2024.04.18-15.54.23:395][999]LogModuleManager: Shutting down and abandoning module AITestSuite (748)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module NavigationSystem (746)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module DataLayerEditor (743)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module EditorWidgets (742)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (739)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (737)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module TypedElementFramework (735)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (733)
+[2024.04.18-15.54.23:396][999]LogModuleManager: Shutting down and abandoning module ProfilerService (731)
+[2024.04.18-15.54.23:647][999]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (729)
+[2024.04.18-15.54.23:647][999]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (727)
+[2024.04.18-15.54.23:647][999]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (725)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (723)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module TakesCore (721)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (719)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module MegascansPlugin (717)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module Bridge (715)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (713)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (711)
+[2024.04.18-15.54.23:648][999]LogModuleManager: Shutting down and abandoning module LightMixer (709)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (707)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (703)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (701)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module ImgMedia (699)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (697)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module MediaPlate (695)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module MediaCompositing (693)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (691)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module SequencerScripting (689)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module AlembicImporter (687)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module AlembicLibrary (686)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module TemplateSequence (683)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module NiagaraFluids (681)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (679)
+[2024.04.18-15.54.23:649][999]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (677)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (675)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module UVEditorTools (673)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module UVEditor (671)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module PresetAsset (669)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (667)
+[2024.04.18-15.54.23:650][999]LogOpenImageDenoise: OIDN shutting down
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (665)
+[2024.04.18-15.54.23:650][999]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (663)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (661)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (659)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module MeshLODToolset (657)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (655)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (653)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (652)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (650)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (647)
+[2024.04.18-15.54.23:651][999]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (645)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (643)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (641)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module DataflowNodes (639)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (637)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module DataflowEditor (635)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (633)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module FractureEditor (631)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (629)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module ChaosNiagara (627)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (625)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module BackChannel (623)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (621)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (619)
+[2024.04.18-15.54.23:652][999]LogModuleManager: Shutting down and abandoning module Paper2DEditor (617)
+[2024.04.18-15.54.23:654][999]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (615)
+[2024.04.18-15.54.23:654][999]LogModuleManager: Shutting down and abandoning module AutomationUtils (613)
+[2024.04.18-15.54.23:654][999]LogModuleManager: Shutting down and abandoning module VariantManager (611)
+[2024.04.18-15.54.23:655][999]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (610)
+[2024.04.18-15.54.23:655][999]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (607)
+[2024.04.18-15.54.23:655][999]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (605)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module InterchangeTests (603)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (601)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (599)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (597)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module GitSourceControl (595)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module UObjectPlugin (593)
+[2024.04.18-15.54.23:656][999]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (591)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module PluginUtils (589)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (587)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (585)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (583)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangePipelines (581)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeExport (579)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeMessages (577)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeImport (575)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (573)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeNodes (571)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module DumpGPUServices (569)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (567)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (565)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (563)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (561)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module InterchangeEditor (559)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (557)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module NinjaCharacter (555)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module TakeSequencer (553)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module TakeMovieScene (551)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (549)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (547)
+[2024.04.18-15.54.23:657][999]LogModuleManager: Shutting down and abandoning module PluginBrowser (545)
+[2024.04.18-15.54.23:658][999]LogModuleManager: Shutting down and abandoning module StylusInput (543)
+[2024.04.18-15.54.23:658][999]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (541)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (539)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (537)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (535)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (533)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module CryptoKeys (531)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module CurveEditorTools (529)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module GLTFImporter (527)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module GLTFCore (525)
+[2024.04.18-15.54.23:659][999]LogModuleManager: Shutting down and abandoning module EditorDebugTools (523)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ResonanceAudio (521)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ChangelistReview (519)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (517)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module SynthesisEditor (515)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (513)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module AssetTags (511)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (509)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ModelingOperators (507)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (505)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module ModelingComponents (503)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module GeometryFramework (502)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (499)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module MeshModelingTools (497)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (495)
+[2024.04.18-15.54.23:660][999]LogModuleManager: Shutting down and abandoning module DynamicMesh (493)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (491)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (489)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module InputDebugging (487)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GooglePAD (485)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (483)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryCache (481)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (479)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (477)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (475)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (473)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AppleImageUtils (471)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (469)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AudioCapture (467)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (466)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (463)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (461)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AndroidPermission (459)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (455)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module ControlRigSpline (453)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (451)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2024.04.18-15.54.23:661][999]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2024.04.18-15.54.23:662][999]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (437)
+[2024.04.18-15.54.23:662][999]LogModuleManager: Shutting down and abandoning module UdpMessaging (435)
+[2024.04.18-15.54.23:763][999]LogModuleManager: Shutting down and abandoning module TcpMessaging (433)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module ActorSequence (431)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (429)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module Niagara (427)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module NiagaraEditor (426)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module NiagaraCore (423)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (421)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module PBIK (419)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module FullBodyIK (417)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (415)
+[2024.04.18-15.54.23:864][999]LogModuleManager: Shutting down and abandoning module TakeRecorder (414)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module ChaosCaching (411)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module Paper2D (409)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (407)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (405)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module AnimationSharing (403)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (401)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (399)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module FacialAnimation (397)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module DataValidation (395)
+[2024.04.18-15.54.23:865][999]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (393)
+[2024.04.18-15.54.23:866][999]LogModuleManager: Shutting down and abandoning module LevelEditor (392)
+[2024.04.18-15.54.23:867][999]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (391)
+[2024.04.18-15.54.23:867][999]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (389)
+[2024.04.18-15.54.23:867][999]LogModuleManager: Shutting down and abandoning module MainFrame (387)
+[2024.04.18-15.54.23:867][999]LogModuleManager: Shutting down and abandoning module HotReload (386)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module ContentBrowser (382)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module ContentBrowserData (381)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module TreeMap (378)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module Synthesis (375)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module SoundFields (373)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (371)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module SignificanceManager (369)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (367)
+[2024.04.18-15.54.23:868][999]LogModuleManager: Shutting down and abandoning module MetasoundEditor (365)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module ToolMenus (364)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module AudioWidgets (362)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (361)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (357)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module MetasoundEngine (355)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module WaveTable (354)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (352)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (349)
+[2024.04.18-15.54.23:869][999]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (347)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (345)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (343)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (341)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module CableComponent (339)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (337)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (336)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (333)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module SignalProcessing (332)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (329)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module AnimationData (327)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module GameplayCameras (325)
+[2024.04.18-15.54.23:870][999]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (323)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (321)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module IKRig (319)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (317)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module ControlRig (315)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module Constraints (314)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module LevelSequence (312)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2024.04.18-15.54.23:871][999]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2024.04.18-15.54.23:872][999]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2024.04.18-15.54.23:872][999]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2024.04.18-15.54.23:872][999]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2024.04.18-15.54.23:872][999]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2024.04.18-15.54.23:872][999]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2024.04.18-15.54.23:873][999]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2024.04.18-15.54.23:874][999]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2024.04.18-15.54.23:874][999]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2024.04.18-15.54.23:874][999]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2024.04.18-15.54.23:874][999]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2024.04.18-15.54.23:874][999]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2024.04.18-15.54.23:875][999]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2024.04.18-15.54.23:875][999]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2024.04.18-15.54.23:877][999]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2024.04.18-15.54.23:877][999]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module Core (233)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2024.04.18-15.54.23:878][999]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2024.04.18-15.54.23:879][999]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2024.04.18-15.54.23:879][999]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2024.04.18-15.54.23:880][999]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2024.04.18-15.54.23:880][999]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2024.04.18-15.54.23:881][999]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2024.04.18-15.54.23:882][999]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2024.04.18-15.54.23:882][999]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2024.04.18-15.54.23:883][999]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2024.04.18-15.54.23:893][999]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2024.04.18-15.54.23:893][999]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2024.04.18-15.54.23:893][999]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2024.04.18-15.54.23:896][999]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2024.04.18-15.54.23:896][999]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2024.04.18-15.54.23:896][999]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2024.04.18-15.54.23:896][999]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2024.04.18-15.54.23:897][999]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2024.04.18-15.54.23:898][999]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2024.04.18-15.54.23:899][999]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2024.04.18-15.54.23:899][999]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2024.04.18-15.54.23:899][999]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2024.04.18-15.54.23:899][999]LogModuleManager: Shutting down and abandoning module WmfMedia (116)
+[2024.04.18-15.54.23:900][999]LogModuleManager: Shutting down and abandoning module Media (115)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (112)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (110)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module NiagaraShader (108)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module ChaosCloth (106)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module VariantManagerContent (102)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module GLTFExporter (100)
+[2024.04.18-15.54.23:901][999]LogModuleManager: Shutting down and abandoning module DatasmithContent (98)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (96)
+[2024.04.18-15.54.23:902][999]RenderDocPlugin: plugin has been unloaded.
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module PixWinPlugin (94)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (92)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (88)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module ChunkDownloader (84)
+[2024.04.18-15.54.23:902][999]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2024.04.18-15.54.23:903][999]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2024.04.18-15.54.23:904][999]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2024.04.18-15.54.23:939][999]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2024.04.18-15.54.23:939][999]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.04.18-15.54.23:939][999]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B59529F6B-4566-8782-ED64-17A599B4F7D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6d322d2241d0791c951920849a07ce24%7C4c884a551f7d47a1a2b42996c617ab08%7C487f4696-a325-4e7c-9bbb-28c8349464fe&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.04.18-15.54.23:953][999]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (68)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (66)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (64)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2024.04.18-15.54.23:954][999]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2024.04.18-15.54.23:955][999]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2024.04.18-15.54.23:956][999]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2024.04.18-15.54.23:956][999]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.04.18-15.54.23:956][999]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.04.18-15.54.23:956][999]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.04.18-15.54.23:957][999]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.04.18-15.54.23:958][999]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.04.18-15.54.23:959][999]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.18-15.54.24:031][999]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.18-15.54.24:060][999]LogExit: Exiting.
+[2024.04.18-15.54.24:090][999]Log file closed, 04/18/24 16:54:24
