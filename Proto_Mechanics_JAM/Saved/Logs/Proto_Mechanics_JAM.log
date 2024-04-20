@@ -6759,3 +6759,181 @@ Are you sure?
 [2024.04.20-15.54.39:654][531]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.04.20-15.54.39:663][532]LogPlayLevel: Display: Destroying online subsystem :Context_47
 [2024.04.20-15.54.39:682][532]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:843][378]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.20-15.57.14:850][378]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.20-15.57.14:852][378]LogWorldPartition: Display: GenerateStreaming started...
+[2024.04.20-15.57.14:852][378]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.04.20-15.57.14:852][378]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 64 us)
+[2024.04.20-15.57.14:852][378]LogWorldPartition: Display: GenerateStreaming took 163 us (total: 1 ms)
+[2024.04.20-15.57.14:855][378]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.20-15.57.14:855][378]PIE: New page: PIE session: ThirdPersonMap (20 Apr 2024, 17:57:14)
+[2024.04.20-15.57.14:893][378]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.20-15.57.14:897][378]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004895s)
+[2024.04.20-15.57.14:897][378]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004934s)
+[2024.04.20-15.57.14:897][378]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.20-15.57.14:897][378]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.20-15.57.14:897][378]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.20-15.57.14:898][378]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.20-15.57.14:898][378]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.20-15.57.14:898][378]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.20-15.57.14:899][378]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.04.20-15.57.14:899][378]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.17 sec)
+[2024.04.20-15.57.14:899][378]LogPlayLevel: PIE: World Init took: (0.001922s)
+[2024.04.20-15.57.14:917][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.04.20-15.57.14:920][378]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.20-15.57.14:920][378]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.20-15.57.14:920][378]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.20-15.57.14:920][378]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.20-15.57.14:920][378]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.20-15.57.14:920][378]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.20-15.57.14:922][378]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.20-15.57.14:938][378]LogAudioMixer: Display: Using Audio Hardware Device Arctis (Arctis 7P+)
+[2024.04.20-15.57.14:938][378]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.20-15.57.14:938][378]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.20-15.57.14:938][378]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.20-15.57.14:938][378]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.04.20-15.57.14:938][378]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.04.20-15.57.14:940][378]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.04.20-15.57.14:940][378]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.04.20-15.57.14:940][378]LogInit: FAudioDevice initialized with ID 13.
+[2024.04.20-15.57.14:940][378]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2024.04.20-15.57.14:940][378]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.20-15.57.14:943][378]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.04.20-15.57.14:945][378]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.04.20-16.57.14
+[2024.04.20-15.57.14:945][378]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.ColorGrid
+[2024.04.20-15.57.14:945][378]LogNiagara: Warning: Zero attributes defined on Grid3D_Gas_Master_Emitter.RasterGridColor
+[2024.04.20-15.57.14:945][378]LogWorld: Bringing up level for play took: 0.001987
+[2024.04.20-15.57.14:947][378]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.04.20-15.57.14:948][378]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.20-15.57.14:948][378]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.20-15.57.14:948][378]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.20-15.57.14:948][378]AnimBlueprintLog: Warning: SLOTNODE: 'UpperBody' in animation instance class ABP_Immersive_C already exists. Remove duplicates from the animation graph for this class.
+[2024.04.20-15.57.14:950][378]PIE: Server logged in
+[2024.04.20-15.57.14:951][378]PIE: Play in editor total start time 0.101 seconds.
+[2024.04.20-15.57.14:965][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:966][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:967][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:967][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:967][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:967][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:967][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:968][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:968][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:968][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:968][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:968][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:969][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:970][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:970][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:970][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:972][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:972][378]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:979][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:979][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:980][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:981][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:981][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:981][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:981][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:982][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:982][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:982][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:982][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:983][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:983][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:983][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:983][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:984][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:984][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:984][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:984][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:986][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.57.14:987][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-15.58.07:521][141]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:530][142]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:540][143]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:548][144]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:557][145]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:566][146]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:574][147]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:583][148]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:592][149]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:600][150]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:609][151]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:617][152]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:635][154]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:652][156]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-15.58.07:670][158]LogBlueprintUserMessages: [FS_Component] Object Hit Impact: 0.0
+[2024.04.20-16.00.10:663][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-16.00.10:663][433]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.04.20-16.00.10:663][433]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.20-16.00.10:663][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-16.00.10:663][433]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.04.20-16.00.10:666][433]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.20-16.00.10:669][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.20-16.00.10:688][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.20-16.00.10:688][433]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.04.20-16.00.10:688][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.20-16.00.10:689][433]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.04.20-16.00.10:694][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.20-16.00.10:719][433]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-16.00.10:767][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.04.20-16.00.10:778][435]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.04.20-16.02.28:022][150]LogDerivedDataCache: C:/Users/Humza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4962 files in 7060 folders with total size 284 MiB.
+[2024.04.20-16.03.01:472][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.20-16.03.01:481][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BJ/QGV4F1PCEH64Q7X8ZCY5U4_Auto5
+[2024.04.20-16.03.01:481][250]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/QGV4F1PCEH64Q7X8ZCY5U4_Auto55E6C42AD4F2AF30CDB6AE28A9E5C35C7.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BJ/QGV4F1PCEH64Q7X8ZCY5U4_Auto5.uasset'
+[2024.04.20-16.03.01:487][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PX/XA0J1876FRFOAP4FEDEGAB_Auto5
+[2024.04.20-16.03.01:487][250]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/XA0J1876FRFOAP4FEDEGAB_Auto5374CD9A6483319A3D18766B03DF7F31D.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PX/XA0J1876FRFOAP4FEDEGAB_Auto5.uasset'
+[2024.04.20-16.03.01:491][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2024.04.20-16.03.01:491][250]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.04.20-16.03.01:491][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.04.20-16.03.01:502][250]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.04.20-16.03.01:502][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.04.20-16.03.01:571][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.04.20-16.03.01:572][250]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/BP_ThirdPersonCharacter_Auto5D867A13441607394421AEBABE7DEA26E.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.04.20-16.03.01:572][250]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.04.20-16.08.00:634][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.20-16.08.00:656][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.20-16.08.02:086][166]LogSlate: Window 'Save Content' being destroyed
+[2024.04.20-16.08.02:093][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.20-16.08.02:124][166]LogSavePackage: Moving output files for package: /Game/ImmersiveTemplate/Blueprints/FootstepSoundComponent/AN_Footstep
+[2024.04.20-16.08.02:124][166]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/AN_FootstepAE936B854212457D2296468CBB49C170.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ImmersiveTemplate/Blueprints/FootstepSoundComponent/AN_Footstep.uasset'
+[2024.04.20-16.08.02:131][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BJ/QGV4F1PCEH64Q7X8ZCY5U4
+[2024.04.20-16.08.02:131][166]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/QGV4F1PCEH64Q7X8ZCY5U4BEC5ABA5482D04E39AD141AEA31B8241.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/BJ/QGV4F1PCEH64Q7X8ZCY5U4.uasset'
+[2024.04.20-16.08.02:138][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PX/XA0J1876FRFOAP4FEDEGAB
+[2024.04.20-16.08.02:138][166]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/XA0J1876FRFOAP4FEDEGABA6EBFE19414F3EEC3EDDB499B573A5EB.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PX/XA0J1876FRFOAP4FEDEGAB.uasset'
+[2024.04.20-16.08.02:207][166]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.04.20-16.08.02:207][166]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/BP_ThirdPersonCharacterFE84D57649E89E215D55DBA909442E9C.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.04.20-16.08.02:213][166]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.04.20-16.08.02:213][166]LogSavePackage: Moving '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Saved/Q7Y1URWWFS0TXGWUTO3S61962C5B8542A761D9850DEE92914B8E1E.tmp' to '../../../../../../Users/Humza/Documents/GitHub/Interactive-Jam/Proto_Mechanics_JAM/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.04.20-16.08.02:223][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 3.71 sec)
+[2024.04.20-16.08.02:227][166]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.20-16.08.02:227][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.04.20-16.08.02:227][166]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ImmersiveTemplate/Blueprints/FootstepSoundComponent/AN_Footstep.AN_Footstep
+[2024.04.20-16.08.02:227][166]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.04.20-16.08.02:227][166]LogContentValidation: Display: Validating /Game/ImmersiveTemplate/Blueprints/Objects/Children/Box/BP_Object_Box.BP_Object_Box_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Object_Box_C_UAID_74563C4C249204EE01_2004896193
+[2024.04.20-16.08.02:227][166]LogContentValidation: Display: Validating /Game/ImmersiveTemplate/Blueprints/Objects/Interactables/Chest/BP_Chest.BP_Chest_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Chest_C_UAID_74563C4C249204EE01_1939960191
